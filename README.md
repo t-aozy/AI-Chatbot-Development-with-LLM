@@ -1,6 +1,6 @@
 # AI-Chatbot-Development-with-LLM
 This is a RAG—based AI Chatbot focused on the diagnostic of Childhood Obesity. We developed it using Llama-2, FAISS 
-Database and FastText Model. 
+Database and FastText Model. We are in the process of applying a patent, thus the code won't be available in the recently months.
 
 <img width="708" height="510" alt="image" src="https://github.com/user-attachments/assets/3eb57152-272d-4034-ac42-5ed561bea818" />
 
